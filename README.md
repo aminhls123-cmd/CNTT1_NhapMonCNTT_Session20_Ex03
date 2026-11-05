@@ -3,9 +3,9 @@
 ## 1. Báo cáo phân tích (IPO) khôi phục tài khoản AWS
 - Input: Mã dự phòng (Backup Codes) lưu trữ ngoại tuyến (giấy/USB).
 - Process: 
-  1. Nhập một Backup Code dùng một lần để đăng nhập AWS thay mã Authenticator.
-  2. Vô hiệu hóa/xóa bỏ thiết bị xác thực cũ đã mất.
-  3. Quét mã QR liên kết ứng dụng trên thiết bị mới và tạo bộ Backup Codes mới.
+  - Nhập một Backup Code dùng một lần để đăng nhập AWS thay mã Authenticator.
+  - Vô hiệu hóa/xóa bỏ thiết bị xác thực cũ đã mất.
+  - Quét mã QR liên kết ứng dụng trên thiết bị mới và tạo bộ Backup Codes mới.
 - Output: Khôi phục thành công quyền truy cập hệ thống AWS an toàn.
 
 ## 2. Lý do không lưu Backup Codes dưới dạng ảnh trong điện thoại
